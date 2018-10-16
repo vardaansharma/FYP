@@ -4,3 +4,4 @@ import App from './App';
 console.disableYellowBox = true;
 
 AppRegistry.registerComponent('OneChatClient', () => App);
+//trying
